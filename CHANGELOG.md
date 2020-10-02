@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the MeshSync package will be documented in this file.
 
+## [1.0.0-pre.1] - 2020-10-02
+* chore: update package to conform to requirements in Unity 2021
+
 ## [0.4.0-preview] - 2020-09-29
 * feat: add support for Blender 2.90
 * feat: split ProjectSettings to Server tab and SceneCache tab
